@@ -12,10 +12,17 @@ group's integrated codebase, not a claim of sole authorship of every component.
 
 ## Gameplay
 
+[![Opening turns, extracted from the repository's existing gameplay recording](docs/media/gameplay-still.jpg)](docs/media/gameplay.mp4)
+
 [Watch the 20-second gameplay demo](docs/media/gameplay.mp4).
 It shows the original home screen, token selection and opening turns. The silent
 capture uses scripted mouse input against this minimally repaired version; it
 is not footage of a completed match.
+
+The thumbnail is a still from that existing recording. The portfolio check on
+17 November 2026 reran the 11 focused regression tests successfully. A fresh game
+window launched, but the capture tool could not bind to it reliably, so no new
+live gameplay recording is claimed. See [capture notes](docs/DEMO.md).
 
 ## Run locally
 
